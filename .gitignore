@@ -165,7 +165,8 @@ cython_debug/
 # Built Visual Studio Code Extensions
 *.vsix
 
-.json
+data.json
+data2.json
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
